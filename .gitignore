@@ -1,0 +1,53 @@
+# Arquivos de compilação e saída do Maven
+target/
+bin/
+log/
+logs/
+release/
+
+# Arquivos de configuração do Maven
+pom.xml.tag
+pom.properties
+.project
+.settings/
+
+# Arquivos específicos do Java
+*.class
+*.jar
+
+# Arquivos específicos do JavaFX
+*.jks
+*.pkcs12
+
+# Arquivos específicos do IntelliJ IDEA
+.idea/
+
+# Arquivos específicos do Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+
+# Arquivos temporários
+*~
+*.swp
+.DS_Store
+
+# Logs de aplicativos
+*.log
+
+# Arquivos específicos do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos específicos do MacOS
+.DS_Store
+
+# Arquivos específicos do sistema operacional
+.idea
+
+# Dependências do Maven (Você pode adicionar esta seção se preferir não incluir as dependências no repositório)
+# /lib/
+# .externalToolBuilders/
+# .settings/
